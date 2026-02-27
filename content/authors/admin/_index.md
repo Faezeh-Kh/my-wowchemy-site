@@ -44,12 +44,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:khorram.faezeh@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/faezeh_khorram
-  label: Follow me on Twitter
-  display:
-    header: true
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://x.com/faezeh_khorram
+#   label: Follow me on X
+#   display:
+#     header: true
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iL0MUYoAAAAJ&hl=en
@@ -59,13 +59,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/faezeh-khorram/
+  display:
+     header: true
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV-Faezeh-2026.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,10 +75,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a research engineer in the Fermat laboratory of the R&D department of HUAWEI Technologies (Grenoble, France) where I work on model-based verification and validation techniques.
+I am a Research Engineer in the Fermat laboratory of the R&D department at HUAWEI Technologies (Grenoble, France), with expertise in requirements engineering, model-based design, development, verification, and validation of complex software-intensive systems, and building model simulators and code generators. I hold a Ph.D. in Software Engineering focused on testing frameworks for domain-specific languages[(link to thesis)](https://theses.hal.science/tel-03977604/). I have a proven track record of translating advanced research into scalable engineering solutions and collaborating with international, cross-functional teams to deliver robust, high-quality products. I have recently begun investigating state-of-the-art approaches for verifying the factuality of LLM–generated responses, with the aim of improving the reliability and trustworthiness of AI-assisted systems.
 
-I received my Ph.D. in Software engineering from [IMT Atlantique](https://www.imt-atlantique.fr/en) (Nantes, France) in 2022 for my thesis titled ["A Testing Framework for Executable Domain-Specific Languages"](https://theses.hal.science/tel-03977604/).
-I was a Marie-Curie Early Stage Researcher ([ESR10](https://www.lowcomote.eu/esr/10/)) at the [Lowcomote European project](https://www.lowcomote.eu/), and for my research activity, I was a member of the [NaoMod](https://naomod.github.io/) group 
-in the [Laboratory of digital sciences of Nantes (LS2N)](https://www.ls2n.fr/?lang=en).
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Faezeh-2026.pdf" "newtab" >}}CV{{< /staticref >}}.

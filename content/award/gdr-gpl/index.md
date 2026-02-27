@@ -23,4 +23,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I obtained [second place for the GDR-GPL 2022 thesis prize](https://gdr-gpl.cnrs.fr/node/526) for my Ph.D. thesis titled ["A Testing Framework for Executable Domain-Specific Languages"](https://theses.hal.science/tel-03977604/). It is a French prize given to the best Ph.D. thesis of the year in the context of programming and software engineering.
+I obtained [second place for the GDR-GPL 2022 thesis prize](https://gdr-gpl-2013-2024.imag.fr/Actions/PrixDeTheseGPL.html) for my Ph.D. thesis titled ["A Testing Framework for Executable Domain-Specific Languages"](https://theses.hal.science/tel-03977604/). It is a French prize given to the best Ph.D. thesis of the year in the context of programming and software engineering.
